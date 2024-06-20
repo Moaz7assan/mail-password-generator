@@ -21,19 +21,6 @@ You can change the names list in the data directory to suit your needs.
 - Access advanced settings for more control over email and password generation.
 - Combine email and password generation into a comprehensive collection.
 
-## Usage
-### Main Menu
-- Generate a Mail
-- Generate a Strong Password
-- Generate a Collection of Mails and Passwords
-- Access Advanced Options
-
-### Advanced Menu
-- Generate custom emails with specific domains.
-- Create custom passwords with defined criteria.
-- Generate and save custom collections of emails and passwords.
-
-
 ## Libraries
 ### rich 
 For creating stylish and formatted terminal outputs.
@@ -55,3 +42,15 @@ pip install pandas
 
 ### random 
  Built in Python Standard libraries
+
+## Usage
+### Main Menu
+- Generate a Mail
+- Generate a Strong Password
+- Generate a Collection of Mails and Passwords
+- Access Advanced Options
+
+### Advanced Menu
+- Generate custom emails with specific domains.
+- Create custom passwords with defined criteria.
+- Generate and save custom collections of emails and passwords.
